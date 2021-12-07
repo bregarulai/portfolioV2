@@ -11,7 +11,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: ['Montserrat', 'sans - serif'].join(','),
+    fontFamily: ['Montserrat'].join(','),
   },
 });
 console.log(theme);
