@@ -10,6 +10,9 @@ const theme = createTheme({
       main: '#3cb027',
     },
   },
+  typography: {
+    fontFamily: ['Montserrat', 'sans - serif'].join(','),
+  },
 });
 console.log(theme);
 export default theme;

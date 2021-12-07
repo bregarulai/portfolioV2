@@ -36,6 +36,7 @@ const Navbar = () => {
             variant='h4'
             noWrap
             component='h1'
+            color='primary'
             sx={{ mr: 2, display: { xs: 'none', md: 'flex' } }}
           >
             Flavio Aquino
@@ -89,6 +90,7 @@ const Navbar = () => {
             variant='h5'
             noWrap
             component='h1'
+            color='primary'
             sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}
           >
             Flavio Aquino
