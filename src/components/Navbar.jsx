@@ -30,7 +30,7 @@ const Navbar = () => {
 
   return (
     <AppBar position='static' color='transparent' sx={{ boxShadow: 'none' }}>
-      <Container maxWidth='xl'>
+      <Container maxWidth='lg'>
         <Toolbar disableGutters>
           <Typography
             variant='h4'
